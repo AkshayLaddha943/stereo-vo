@@ -15,4 +15,4 @@ This project presents a complete pipeline for stereo-vision based Odometry. The 
 **Publishing the Results:** Publish the pose as a ROS2 message type in RViz, and plot it in real time.
 
 ## Results
-<img width="800" height="600" alt="result" src="https://github.com/user-attachments/assets/00ec5065-16c3-4dd6-a24f-57934a85c192" />
+<img width="600" height="400" alt="result" src="https://github.com/user-attachments/assets/00ec5065-16c3-4dd6-a24f-57934a85c192" />
